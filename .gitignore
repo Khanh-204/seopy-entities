@@ -1,0 +1,5 @@
+service_account.json
+history.txt
+__pycache__/
+.venv/
+.idea/
